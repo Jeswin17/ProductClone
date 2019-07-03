@@ -8,7 +8,7 @@ Clone of ProductHunt website (https://www.producthunt.com/)
 
 * [Django](https://www.djangoproject.com/) 
 * Postgres
-
+* [Bootstrap](https://getbootstrap.com/)
 
 
 
